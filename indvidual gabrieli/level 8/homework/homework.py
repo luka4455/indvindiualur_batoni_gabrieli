@@ -10,3 +10,5 @@ num = 10 > 0
 
 while num >= True:
     print("true")
+  
+
