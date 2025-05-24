@@ -16,3 +16,4 @@ num = 11
 while num != 10:
     print("discount")
 num = num - 1
+
